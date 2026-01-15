@@ -48,7 +48,7 @@ partner_data_validator/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/partner-data-validator.git
+git clone https://github.com/vcsodha/partner-data-validator.git
 cd partner-data-validator
 ````
 
